@@ -1,5 +1,5 @@
 """
-Answer to Gooogle Kickstart 2022 Round B - Unlock the Padlock
+Solution to Gooogle Kickstart 2022 Round B - Unlock the Padlock
 https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74
 
 Passes test set 1 for 10 pts but greedy approach fails on diff data sets
