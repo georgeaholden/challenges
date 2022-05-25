@@ -2,7 +2,6 @@
 Solution to Gooogle Kickstart 2022 Round B - Infinity Area
 https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74
 """
-
 import math
 
 def get_input():
@@ -35,4 +34,8 @@ def main():
     cases = get_input()
     for i, case in enumerate(cases):
         ans = solve(*case)
-        print(f"Case #{i}: {ans}")
+        print(f"Case #{i + 1}: {ans}")
+
+
+if __name__ == "__main__":
+    main()

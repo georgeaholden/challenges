@@ -68,4 +68,5 @@ def calculate_cost(x, D):
         return (up_cost, "UP")
 
 
-main()
+if __name__ == "__main__":
+    main()
